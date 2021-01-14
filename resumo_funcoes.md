@@ -1,12 +1,12 @@
 # Funções
 #### pwd 
-- Print Working Directory
-    Esse comando mostra o diretorio atual.
+- _Print Working Directory_
+    <br/> Esse comando mostra o diretorio atual.
 #### ls 
-- List 
-    Esse comando lista todos os arquivos do diretorio atual.
+- _List_ 
+    <br/> Esse comando lista todos os arquivos do diretorio atual.
 #### cd
-- Current Directory 
-    Esse comando direciona qual sera o diretorio atual.
+- _Current Directory_ 
+    <br/> Esse comando direciona qual sera o diretorio atual.
 #### mv
 - Renomeia o nome do arquivo
