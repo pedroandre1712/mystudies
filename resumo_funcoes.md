@@ -10,3 +10,6 @@
     <br/> Esse comando direciona qual sera o diretorio atual.
 #### mv
 - Renomeia o nome do arquivo
+#### cp
+- _Alguma coisa paste_
+    <br/> Esse comando copia um arquivo para uma outra pasta.
