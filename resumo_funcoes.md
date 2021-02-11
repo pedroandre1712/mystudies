@@ -1,6 +1,6 @@
 # Funções
 #### man (comando) ou (comando) --help
--_Manual_
+- _Manual_
     <br/> Esse comando mostra os argumentos que a funcao pode ter
 #### pwd 
 - _Print Working Directory_
