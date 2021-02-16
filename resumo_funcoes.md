@@ -16,3 +16,9 @@
 #### cp
 - _Copy paste_
     <br/> Esse comando copia um arquivo para uma outra pasta.
+#### cat ou tac (cat invertido)
+- _Cat_
+    <br/> Esse comando le um arquivo .txt.
+#### nano
+- _Nome do editor de texto_
+    <br/> Esse comando abre um arquivo com o editor de texto Nano.
