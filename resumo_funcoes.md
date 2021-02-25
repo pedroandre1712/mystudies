@@ -1,22 +1,22 @@
 # Funções
 #### man (comando) ou (comando) --help
 - _Manual_
-    <br/> Esse comando mostra os argumentos que a funcao pode ter
+    <br/> Esse comando mostra os argumentos que a função pode ter.
 #### pwd 
 - _Print Working Directory_
-    <br/> Esse comando mostra o diretorio atual.
+    <br/> Esse comando mostra o diretório atual.
 #### ls 
 - _List_ 
     <br/> Esse comando lista todos os arquivos do diretorio atual.
 #### cd
-- _Current Directory_ 
-    <br/> Esse comando direciona qual sera o diretorio atual.
+- _Change Directory_ 
+    <br/> Esse comando direciona qual será o diretório atual.
 #### mv
 - _Move_
-    <br/> Renomeia o nome do arquivo ou move ele para outra pasta
+    <br/> Renomeia o nome do arquivo ou move ele para outra pasta.
 #### cp
 - _Copy paste_
-    <br/> Esse comando copia um arquivo para uma outra pasta.
+    <br/> Esse comando copia um arquivo para uma outra pasta/diretório.
 #### rm
 - _Remove_
     <br/> Esse comando exclui um arquivo.
