@@ -40,3 +40,5 @@ df.isnull()
 
 df.dropna(subset = 'nome da coluna')
 - Retorna o df com os valores nulos dropados. Nao esquecer do argumento inplace = True
+
+df.fillna()
