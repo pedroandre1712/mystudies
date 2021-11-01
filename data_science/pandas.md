@@ -35,3 +35,8 @@ df.coluna
 - Recorta pelo nome da coluna
 
 # Tratamento de dados faltantes
+df.isnull()
+- Retorna True caso seja dado faltante
+
+df.dropna(subset = 'nome da coluna')
+- Retorna o df com os valores nulos dropados. Nao esquecer do argumento inplace = True
