@@ -14,3 +14,19 @@ exemplo.columns.name = 'indice'
 # Chamar uma coluna
 exemplo.nomedacoluna<br>
 exemplo['nomedacoluna']
+
+# Recortar DataFrame
+exemplo.loc[]
+- Recorta pelo nome do index
+
+exemplo.iloc[]
+- Recorta pelo valor do indice
+
+exemplo[]
+- Recorta pelo nome da coluna
+
+exemplo[:]
+- Recorta pelo indice da linha e da coluna
+
+exemplo.
+- Recorta pelo nome da coluna
