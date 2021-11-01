@@ -42,3 +42,4 @@ df.dropna(subset = 'nome da coluna')
 - Retorna o df com os valores nulos dropados. Nao esquecer do argumento inplace = True
 
 df.fillna()
+- Trocas os valores nulos por algum outro valor, existem alguns metodos methods = bfill, ffill ou mean()
