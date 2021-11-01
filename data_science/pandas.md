@@ -33,3 +33,5 @@ df[:]
 
 df.coluna
 - Recorta pelo nome da coluna
+
+# Tratamento de valores nulos
