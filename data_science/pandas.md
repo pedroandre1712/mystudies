@@ -34,4 +34,4 @@ df[:]
 df.coluna
 - Recorta pelo nome da coluna
 
-# Tratamento de valores nulos
+# Tratamento de dados faltantes
