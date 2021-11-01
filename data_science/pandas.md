@@ -7,6 +7,9 @@
 
 .info
 
+exemplo.dtypes
+- Retorna o tipo dos valores de cada coluna
+
 # Renomear index
 exemplo.columns.name = 'indice'
 - Utilizado para deixar o DataFrame mais limpo
