@@ -13,3 +13,8 @@ feature1, feature2, feature3, ..., featuren)
 VALUES ( 
 value1, value2, value3, ..., valuen)
 - Add values into features
+
+
+SELECT feature OVER(PARTITION BY feature ORDER BY feature)
+FROM tabela
+- Window function
