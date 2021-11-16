@@ -1,2 +1,2 @@
 # learningds
-Meus estudos pessoais sobre as principais ferramentas e bibliotecas relacionadas à Data Science.
+Meus estudos pessoais sobre front-end, SQL e Python.
