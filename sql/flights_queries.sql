@@ -26,20 +26,6 @@ limit 1;
 select * from bookings.flights;
 
 /* Apresente o numero de vezes em que cada assento foi escolhido pelo nome do passageiro que mais comprou tickets */
-select bs.seat_no , count(bs.seat_no) from bookings.seats bs
-inner join bookings.aircrafts ba ON bs.aircraft_code = bs.aircraft_code 
-inner join bookings.flights bf ON ba.aircraft_code = bf.aircraft_code 
-inner join bookings.ticket_flights btf ON btf.flight_id = bf.flight_id
-inner join bookings.tickets bt ON btf.ticket_no = bt.ticket_no
-where bt.passenger_name = (SELECT tickets.passenger_name 
-						   from bookings.tickets 
-						   group by passenger_name 
-						   order by count(tickets.ticket_no) desc 
-						   limit 1)
-group by bs.seat_no
-order by count(passenger_name);
-
-/* Apresente o numero de vezes em que cada assento foi escolhido pelo nome do passageiro que mais comprou tickets */
 select bbp.seat_no , count(bbp.seat_no) from bookings.boarding_passes bbp
 inner join bookings.ticket_flights btf ON btf.ticket_no = bbp.ticket_no
 inner join bookings.tickets bt ON bt.ticket_no = bbp.ticket_no
