@@ -42,6 +42,6 @@ class Caesar:
 
         return new_Word
 
-teste = Ceaser("ZARATRUSTA", 2)
+teste = Caesar("ZARATRUSTA", 2)
 print(teste.encryption())
 print(teste.decryption())
