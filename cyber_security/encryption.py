@@ -1,9 +1,9 @@
-class Ceaser:
+class Caesar:
     def __init__(self,word, n):
         self.word = word
         self.n = n
         self.alfabeto = "ABCDEFGHIJKLMNOPQRSTUWXYZ"
-        
+
     def encryption(self):
         new_Word = ""
 
