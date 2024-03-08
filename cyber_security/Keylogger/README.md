@@ -1,0 +1,3 @@
+Originating in the early days of computing, keyloggers were initially used for legitimate purposes such as debugging and user monitoring. However, over time, they evolved into potent tools for malicious actors seeking to covertly capture keystrokes and steal sensitive information. From simple hardware keyloggers to sophisticated software variants, the history of keyloggers underscores the ongoing arms race between cyber attackers and defenders, highlighting the importance of robust cybersecurity measures in today's digital age.</br>
+
+My keylogger project captures keystrokes to analyze user behavior and system interactions, emphasizing security and ethical considerations in cybersecurity awareness.</br>
