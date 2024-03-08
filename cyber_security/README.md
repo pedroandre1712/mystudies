@@ -1,5 +1,6 @@
-<h1>Welcome to my Cybersecurity Portfolio!</h1>
-<img src="wannacry.jpeg">
+<h1>Brief history about cybersecurity...</h1>
+
+
 <img align="right" src="loveletter.jpeg">
 In the annals of cybersecurity history, pivotal attacks have left indelible marks on the digital landscape. The LoveLetter attack, also known as the ILOVEYOU virus, spread rapidly in 2000 via email attachments posing as love letters. It caused widespread damage by overwriting files and infecting millions of computers globally, highlighting the vulnerability of users to social engineering tactics.
 
@@ -9,7 +10,11 @@ Following suit, Stuxnet's emergence in 2010 unveiled the era of state-sponsored 
 
 
 ---
+<img src="wannacry.jpeg">
+Furthermore, the WannaCry ransomware attack in 2017 caused global chaos. The WannaCry attack was a global ransomware outbreak that exploited vulnerabilities in Windows systems. It propagated rapidly across networks, encrypting files and demanding ransom payments in Bitcoin. Its impact was widespread, affecting hundreds of thousands of computers in over 150 countries, including critical infrastructure and healthcare systems. The WannaCry attack underscored the importance of timely patching and robust cybersecurity measures to mitigate the risk of ransomware threats. 
 
-Furthermore, the WannaCry ransomware attack in 2017 caused global chaos, exploiting vulnerabilities in Windows systems to encrypt data and demand ransom payments. More recently, the SolarWinds supply chain attack of 2020 shook the cybersecurity world, infiltrating software updates to compromise thousands of organizations' networks. These attacks serve as stark reminders of the ever-evolving cyber threat landscape, driving continuous innovation and resilience in cybersecurity defenses.</br>
+More recently, the SolarWinds supply chain attack of 2020 shook the cybersecurity world, infiltrating software updates to compromise thousands of organizations' networks. These attacks serve as stark reminders of the ever-evolving cyber threat landscape, driving continuous innovation and resilience in cybersecurity defenses.</br>
 
+
+<h2>My Cybersecurity Portfolio!</h2>
 With a diverse range of projects spanning network security, cryptography, and ethical hacking, my cybersecurity portfolio showcases my expertise in safeguarding digital assets. From developing secure authentication protocols to conducting penetration tests, each project demonstrates my commitment to mitigating cyber threats and protecting sensitive information. With a focus on innovation and continuous learning, I strive to stay ahead of emerging threats and contribute to a safer digital environment. Explore my portfolio to see how I'm addressing cybersecurity challenges and building resilient defenses in today's interconnected world.</br>
